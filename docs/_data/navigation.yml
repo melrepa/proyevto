@@ -1,26 +1,7 @@
-- name: Temas
-  link: /#
-  dropdown:
     - name: Introducción 
       link: /intro/
-    - name: Obtención de datos
-      link: /integra/
-    - name: Tipos de datos
-      link: /limpieza/
-    - name: Transformación de datos
-      link: /transforma/
-    - name: Análisis exploratorio de datos
-      link: /eda/
-    - name: Series de tiempo y datos georeferenciados
-      link: /casos/
-    - name: Reducción de datos
-      link: /reducccion/
-- name: Proyectos
-  link: /#
-  dropdown:
-    - name: Obtención de datos 
-      link: /proyecto1/
-    - name: Contando historias con datos
-      link: /proyecto2/
-    - name: Proyecto integrador
-      link: /proyecto4/
+    - name: info datos
+      link: /datos/
+    - name: dashboard
+      link: /dashboard/
+    
